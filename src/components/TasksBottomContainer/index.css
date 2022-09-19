@@ -1,1 +1,74 @@
 
+
+.sort-container {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 70px;
+}
+
+.sort {
+    font-family: "Roboto";
+    font-size: 18px;
+    padding-top: 4px;
+    margin-right: 6px;
+}
+
+.icon-down {
+    height: 20px;
+    width: 20px;
+    margin-left: 10px;
+}
+
+.sort-button {
+    height: 26px;
+    width: 70px;
+   border: none;
+   background-color: #00C0F0;
+   border-radius: 8px;
+}
+
+
+.task-bottom-card-container {
+        box-shadow: #110c2e26 0px 48px 100px 0px;
+        height: 60vh;
+        width: 78vw;
+        margin: 34px;
+        border-radius: 8px;
+        display: flex;
+        flex-direction: column;
+        background-color: #ffffff;
+        padding: 16px;
+}
+
+.all-logo {
+    padding-top: 4px;
+}
+
+.align { 
+    background-color: grey;
+    height: 30px;
+    width: 300px;
+    display: flex;
+}
+
+.results {
+    display: flex;
+    padding: 14px;
+}
+
+.search-logo {
+    margin: 6px;
+}
+
+.show-results {
+    display: flex;
+    width: 200px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.results-alignment {
+    display: flex;
+
+}
